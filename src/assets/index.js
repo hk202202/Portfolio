@@ -63,7 +63,7 @@ import durapid from "./durapid.png";
 import fsl from "./fsl.png";
 import java from "./tech/java.png";
 
-import hklogo from "./hkLogo.png";
+import hklogo from "./hklogo.png";
 export {
   logo,
   backend,
